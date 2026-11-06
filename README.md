@@ -16,6 +16,16 @@ Building programmatic SEO engines, traffic analytics pipelines, and high-convert
 
 ---
 
+## 🌟 Featured Open-Source Showcase
+
+### 📦 [astro-eeat-seo-starter](https://github.com/khaledkhalaf1992/astro-eeat-seo-starter)
+> **Production-grade Astro starter template with Google E-E-A-T architecture, automated Schema.org JSON-LD, and sub-second Core Web Vitals.**
+- ⚡ **100/100 Core Web Vitals:** Zero runtime JavaScript overhead for lightning-fast indexing.
+- 🛡️ **Automated Structured Data:** Built-in TypeScript generator for `TechArticle`, `Organization`, and `BreadcrumbList`.
+- 🌐 **Edge-Ready:** Pre-configured for sub-100ms global delivery on Cloudflare Pages.
+
+---
+
 ## 🛠️ Growth & Technical SEO Arsenal
 
 | Area | Tools & Technologies |
@@ -28,7 +38,7 @@ Building programmatic SEO engines, traffic analytics pipelines, and high-convert
 
 ---
 
-## 📂 Core Experience & Focus Areas
+## 📂 Production Platforms Experience
 
 ### 🛒 High-Volume E-Commerce & Classifieds Search (Souq & Dubizzle Context)
 - Multi-category indexing, dynamic canonicalization, and high-speed search discovery for hundreds of thousands of listings.
