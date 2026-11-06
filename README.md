@@ -1,6 +1,12 @@
 # Hi there, I'm Khaled Gamal Khalaf 👋
 ### Senior Technical SEO & Digital Growth Architect (12+ Years in Traffic & Monetization)
 
+<p align="left">
+  <a href="https://orcid.org/0009-0006-1672-5489"><img src="https://img.shields.io/badge/ORCID-0009--0006--1672--5489-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://www.linkedin.com/in/khaledkhalaf92/"><img src="https://img.shields.io/badge/LinkedIn-khaledkhalaf92-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/201122223643"><img src="https://img.shields.io/badge/WhatsApp-%2B201122223643-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</p>
+
 ```text
 Bridging the gap between software engineering, search engine algorithms, and revenue monetization.
 Building programmatic SEO engines, traffic analytics pipelines, and high-converting web architectures.
@@ -52,6 +58,7 @@ Building programmatic SEO engines, traffic analytics pipelines, and high-convert
 ---
 
 ## 📊 Connect With Me
+- 🆔 **ORCID iD:** [orcid.org/0009-0006-1672-5489](https://orcid.org/0009-0006-1672-5489)
 - 💼 **LinkedIn:** [linkedin.com/in/khaledkhalaf92](https://www.linkedin.com/in/khaledkhalaf92/)
 - 📱 **Phone / WhatsApp:** [+201122223643](https://wa.me/201122223643)
 - 🌐 **Location:** Egypt (Available for Remote Global Roles, Technical Audits & Growth Consulting)
